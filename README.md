@@ -1,2 +1,2 @@
-# Tri-3-Thingy
+# Tri-3-Project 
 Kevin repository 
