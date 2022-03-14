@@ -1,2 +1,1 @@
-# Tri-3-Project 
-Kevin repository 
+# Kevin's repository 
