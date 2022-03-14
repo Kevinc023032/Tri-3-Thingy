@@ -58,4 +58,4 @@ Wii:
 - People that are empowered can help someone that is not empowered by helping those that don’t have access to the internet. I can give somebody my hotspot if their wifi is not working so that they can access the internet.
 
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
-- The use of red tape blocks digital empowerment because people are required to follow more steps and procedures in order to obtain information or complete something. I think we have similar barries at Del Norte because we have to enter multiple passowords in order to access my connect or my plan. 
+- The use of red tape blocks digital empowerment because people are required to follow more steps and procedures in order to obtain information or complete something. I think we have similar barriers at Del Norte because we have to enter multiple passwords in order to access my connect or my plan. 
