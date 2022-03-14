@@ -7,7 +7,8 @@ filename: Test-Prep-Study
  # Test Prep Study 
  
 ### Unit 5.1 Notes
-There are benefits and harmful effects of technology on people 
+
+- There are benefits and harmful effects of technology on people 
 Wii:
 - Benefits: Allows you to be active while playing video games 
   - Harmful: injuries, broken tv
@@ -42,6 +43,7 @@ Wii:
 
 
 ### Unit 5.2 Notes
+
 - The access to the internet varies between social classes, countries, and geography
 - Digital Divide: the different amount of access to the internet which can be affected by geography and age
 - Some countries don’t have the infrastructure to provide everybody with access to the internet 
