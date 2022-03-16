@@ -59,3 +59,24 @@ Wii:
 
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 - The use of red tape blocks digital empowerment because people are required to follow more steps and procedures in order to obtain information or complete something. I think we have similar barriers at Del Norte because we have to enter multiple passwords in order to access my connect or my plan. 
+
+### 5.3 Computing Bias
+- Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
+- Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
+- Biases can be embedded at all levels of software development
+
+### 5.4: Crowdsourcing
+ Public Data Sets:
+- Kaggle
+- Google Public Datasets
+- Data.gov
+Local Government
+Widespread access to info and public data facilitates the identification of problems, development of solutions and dissemination of results.
+Distributed Computing:
+A ton of computers do 1 task
+Examples:
+Spotify with collab playlists
+Crowdfunding like kickstarter and GoFundMe
+Blockchain like crypto and other tokens
+
+
