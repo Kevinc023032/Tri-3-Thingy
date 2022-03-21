@@ -116,3 +116,18 @@ def buildMenu(banner, options):
 if __name__ == "__main__":
     menu()
 ```
+
+#### InfoDB Lists
+```aidl
+KVDb = []
+# List with dictionary records placed in a list  
+KVDb.append({  
+               "FirstName": "Kevin",  
+               "LastName": "Chen",  
+               "DOB": "Febuary 25",  
+               "Location": "San Diego",  
+               "Personal Email": "sdkc0225@gmail.com",  
+               "School Email": "kevinc55921@stu.powayusd.com",  
+               "Coding_Languages":["Python","HTML", ]  
+              })  
+```
