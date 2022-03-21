@@ -23,6 +23,7 @@ Wii:
 - Most of our lives are deeply connected to the internet
 - We rely on the internet too much sometimes, spend too much time online
 
+### GH Actions
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 
 - It is a lot easier to complete tasks for school or work with the accessibility of the internet. However, the internet is a dangerous place, you can have your information stolen by hackers or data leaks. 
@@ -49,6 +50,8 @@ Wii:
   - Most countries rely on the internet to thrive and grow 
 - The internet helps protect countries from outside threats and influences 
 
+### GH Actions
+
 1. How does someone empower themself in a digital world?
 
 - People can empower themselves in the digital world by learning skills that will allow them to thrive on the internet. Knowing certain skills that will separate them from others will likely lead to more success in the future. 
@@ -65,6 +68,13 @@ Wii:
 - Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
 - Biases can be embedded at all levels of software development
 
+### GH Actions
+
+- The owner of the computer thinks this was intentional but most likely being a bug in the software as it was not tested enough.
+- I think this happened because they tested the motion tracking of the face using a white model
+- This can be very harmful and be percieved as racist and therefore should be corrected.
+- To have a better result I would use different facial models and a wide variety of people to test the software.
+
 ### 5.4: Crowdsourcing
  Public Data Sets:
 - Kaggle
@@ -79,4 +89,9 @@ Spotify with artists's playlists
 Crowdfunding platforms like kickstarter and GoFundMe
 Coinbase that allows you to buy crypto
 
+### GH Actions
 
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+- The 150 computer science principle students can help those affected by the russian invasion in ukraine. We can use crowdsourcing as a way to work together and accomplish our goals. We can set up a go fund me where people can donate to support people living in ukraine. 
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+-  I think that Del Norte can use crowdsoucing to help solve some issues that we are facing . My final could be better with crowdsoucing since we can work better together.
