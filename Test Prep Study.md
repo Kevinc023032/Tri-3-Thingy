@@ -75,8 +75,8 @@ Widespread access to info and public data facilitates the identification of prob
 Distributed Computing:
 A ton of computers do 1 task
 Examples:
-Spotify with collab playlists
-Crowdfunding like kickstarter and GoFundMe
-Blockchain like crypto and other tokens
+Spotify with artists's playlists
+Crowdfunding platforms like kickstarter and GoFundMe
+Coinbase that allows you to buy crypto
 
 
