@@ -95,3 +95,21 @@ Coinbase that allows you to buy crypto
 - The 150 computer science principle students can help those affected by the russian invasion in ukraine. We can use crowdsourcing as a way to work together and accomplish our goals. We can set up a go fund me where people can donate to support people living in ukraine. 
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 -  I think that Del Norte can use crowdsoucing to help solve some issues that we are facing . My final could be better with crowdsoucing since we can work better together.
+
+### 5.5: Legal and Ethical Concerns
+
+### GH Actions
+
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+2. Make a license for your personal and Team project. Document license you picked and why.
+
+### 5.6: Safe Computing
+
+### GH Actions
+
+1. Describe PII you have seen on project in CompSci Principles.
+2. What are your feelings about PII and your exposure?
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+4. Try to describe Symmetric and Asymmetric encryption.
+5. Provide and example of encryption we used in deployment.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
