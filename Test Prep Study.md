@@ -111,7 +111,8 @@ Coinbase that allows you to buy crypto
 2. Make a license for your personal and Team project. Document license you picked and why.
 
 ### 5.6: Safe Computing
-
+- PII is your personal Identifiable Information such as social security, phone numbers, emails, date of birth
+- 
 ### GH Actions
 
 1. Describe PII you have seen on project in CompSci Principles.
