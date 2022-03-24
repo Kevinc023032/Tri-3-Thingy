@@ -100,6 +100,8 @@ Coinbase that allows you to buy crypto
 
 ### GH Actions
 
+- Intellectual property: a work or invention that is the result of creativity where they have the rights to create things
+
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 2. Make a license for your personal and Team project. Document license you picked and why.
 
