@@ -97,10 +97,15 @@ Coinbase that allows you to buy crypto
 -  I think that Del Norte can use crowdsoucing to help solve some issues that we are facing . My final could be better with crowdsoucing since we can work better together.
 
 ### 5.5: Legal and Ethical Concerns
+- Things created on the internet are propety of the creators
+- Copyright gives your IP protection and prevents people from using it 
+- Intellectual property: a work or invention that is the result of creativity where they have the rights to create things
+- You can use materials created by others using Creative commons, open source, open access
+- Creative commons: gives free licences to others and how the creations can be used 
+- Open source: an online source that is free form any restrictions and is free to use 
+- Open access: online sources that are distrubed online and is openly available 
 
 ### GH Actions
-
-- Intellectual property: a work or invention that is the result of creativity where they have the rights to create things
 
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 2. Make a license for your personal and Team project. Document license you picked and why.
