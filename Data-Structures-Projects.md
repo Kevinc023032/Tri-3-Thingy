@@ -139,7 +139,7 @@ KVDb.append({
 #Select your own Math function. Write it in Imperative and OOP form. Some Math functions have been provided. Think about inputs and outputs to present to Teacher. It is preferred to have Test data, not input to illustrate code.
 
 # Function to find the mean between 3 numbers
-def findMean(num1, num2, num3):
+```def findMean(num1, num2, num3):
     num3 = (num1 + num2 +num3) / 3
     return num4
 
