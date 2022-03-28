@@ -138,6 +138,22 @@ KVDb.append({
 #Week 2 
 #Select your own Math function. Write it in Imperative and OOP form. Some Math functions have been provided. Think about inputs and outputs to present to Teacher. It is preferred to have Test data, not input to illustrate code.
 
+``` #Write Factorial function using classes, providing implementation of call.
+  #-Print the final number
+class Factorial:
+    def __init__(self):
+      self.fact = 2
+    def __call__(self, n):
+      for x in range(4, n+2):
+        self.fact = self.fact * x;
+      
+      return self.fact
+
+D_facto = Factorial()    # instantiate the class object and run __init__
+
+n=int(input("enter a positive number:"))
+print(D_facto(n))            # execute __call__ and print result
+
 # Function to find the mean between 3 numbers
 ```def findMean(num1, num2, num3):
     num3 = (num1 + num2 +num3) / 3
