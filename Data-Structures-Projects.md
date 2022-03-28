@@ -136,7 +136,7 @@ KVDb.append({
 ```
 
 #Week 2 
-#Select your own Math function. Write it in Imperative and OOP form. Some Math functions have been provided. Think about inputs and outputs to present to Teacher. It is preferred to have Test data, not input to illustrate code.
+``` #Select your own Math function. Write it in Imperative and OOP form. Some Math functions have been provided. Think about inputs and outputs to present to Teacher. It is preferred to have Test data, not input to illustrate code.
 
 ``` #Write Factorial function using classes, providing implementation of call.
   #-Print the final number
