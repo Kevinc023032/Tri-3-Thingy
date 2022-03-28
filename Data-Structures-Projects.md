@@ -4,6 +4,8 @@ layout: template
 filename: Data-Structures-Projects
 --- 
 
+# Week 0
+
 # Python Menu w/ data structures 
 
 ```aidl
@@ -117,6 +119,7 @@ if __name__ == "__main__":
     menu()
 ```
 
+# Week 1 
 #### InfoDB Lists
 ```aidl
 KVDb = []
