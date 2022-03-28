@@ -108,16 +108,34 @@ Coinbase that allows you to buy crypto
 ### GH Actions
 
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
-2. Make a license for your personal and Team project. Document license you picked and why.
+- I will be using a Creative Common Lisense for my personal project so I can help future students with their Computer Scince Principles. If people want to use my code for their own websites or personal use they will be able to. 
 
+2. Make a license for your personal and Team project. Document license you picked and why.
+- Team Repo: We are choosing the Open Source MIT license, we will allow using the code from the Kylies-disciples GitHub to be used freely only to make and distribute closed source versions
 ### 5.6: Safe Computing
 - PII is your personal Identifiable Information such as social security, phone numbers, emails, date of birth
-- 
+- Your search history can be tracked by multiple websites
+### Risks to Privacy:
+- Google knows where you live, and your IP
+- WiFi signal may be tracked
+- Stores w/ cameras can store your image
+- All this info can be put online, which is hard to get rid of
+- This info could be used against you and it could give other info about you that you didn't intend to share
+### Authentication:
+- Authentication measures protect devices and information form unauthorized access
+- Measures strong passwords and 2FA
+
 ### GH Actions
 
 1. Describe PII you have seen on project in CompSci Principles.
-2. What are your feelings about PII and your exposure?
-3. Describe good and bad passwords? What is another step that is used to assist in authentication.
-4. Try to describe Symmetric and Asymmetric encryption.
-5. Provide and example of encryption we used in deployment.
-6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+- I have seen Personal Identifiable Information in Instagram, myConnect, and gmail.
+3. What are your feelings about PII and your exposure?
+- I think that my PII is pretty safe on the internet, some of my personal information is on the internet but I'm usually pretty careful.
+5. Describe good and bad passwords? What is another step that is used to assist in authentication.
+- Some bad passwords are ones that have your first or last name, good passwords are some random words, nubmbers, and symbols combined. Another step that can be used for authentication is 2 factor authentication which requires another step to be taken in order for certain accounts to be accessed.
+7. Try to describe Symmetric and Asymmetric encryption.
+- Symmetric encryption uses the same secret key to encrypt and decrypt sensitive information, While Assymetric encruption uses mathematically linked public- and private-key pairs to encrypt and decrypt senders' and recipients' sensitive data
+9. Provide and example of encryption we used in deployment.
+- An example of encryption we used in development in HTTPS which is the encrypted version of HTTP.
+11. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+- I have not fallen for any phising schemes because they are pretty obvious to recognize for me. Some phising techniques can be some malicious emails that when opened can steal your personal information or even IP address.
