@@ -4,12 +4,13 @@ layout: template
 filename: Data-Structures-Projects
 --- 
 
+[Week 0](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-0-Code-Snippets), [Week 1](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-1-Code-Snippets), [Week 2 ](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-2-Code-Snippets)
+
+# Replit Link
 <iframe height="1000px" width="600px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
 
-# Week 0
-
-# Python Menu w/ data structures 
-
+## Week 0 Code Snippets
+### Python Menu w/ data structures 
 ```aidl
 # menu.py - function style menu
 # Imports typically listed at top
@@ -121,8 +122,8 @@ if __name__ == "__main__":
     menu()
 ```
 
-# Week 1 
-#### InfoDB Lists
+## Week 1 Code Snippets
+### InfoDB Lists
 ```aidl
 KVDb = []
 # List with dictionary records placed in a list  
@@ -137,7 +138,7 @@ KVDb.append({
               })  
 ```
 
-#Week 2 
+# Week 2 Code Snippets
 ``` #Select your own Math function. Write it in Imperative and OOP form. Some Math functions have been provided. Think about inputs and outputs to present to Teacher. It is preferred to have Test data, not input to illustrate code.
 
 ``` #Write Factorial function using classes, providing implementation of call.
