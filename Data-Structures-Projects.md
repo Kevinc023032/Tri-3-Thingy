@@ -7,7 +7,7 @@ filename: Data-Structures-Projects
 [Week 0](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-0-Code-Snippets), [Week 1](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-1-Code-Snippets), [Week 2 ](https://kevinc023032.github.io/Tri-3-Thingy/Data-Structures-Projects#Week-2-Code-Snippets)
 
 # Replit Link
-<iframe height="1000px" width="600px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
+<iframe height="1000px" width="900px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
 
 # Week 0 Code Snippets
 ### Python Menu w/ data structures 
