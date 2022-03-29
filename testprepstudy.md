@@ -112,6 +112,8 @@ Coinbase that allows you to buy crypto
 
 2. Make a license for your personal and Team project. Document license you picked and why.
 - Team Repo: We are choosing the Open Source MIT license, we will allow using the code from the Kylies-disciples GitHub to be used freely only to make and distribute closed source versions
+
+
 ### 5.6: Safe Computing
 - PII is your personal Identifiable Information such as social security, phone numbers, emails, date of birth
 - Your search history can be tracked by multiple websites
