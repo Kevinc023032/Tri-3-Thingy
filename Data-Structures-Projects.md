@@ -4,6 +4,8 @@ layout: template
 filename: Data-Structures-Projects
 --- 
 
+<iframe height="1000px" width="600px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
+
 # Week 0
 
 # Python Menu w/ data structures 
