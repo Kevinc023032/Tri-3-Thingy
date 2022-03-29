@@ -9,7 +9,7 @@ filename: Data-Structures-Projects
 # Replit Link
 <iframe height="1000px" width="600px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
 
-## Week 0 Code Snippets
+# Week 0 Code Snippets
 ### Python Menu w/ data structures 
 ```aidl
 # menu.py - function style menu
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     menu()
 ```
 
-## Week 1 Code Snippets
+# Week 1 Code Snippets
 ### InfoDB Lists
 ```aidl
 KVDb = []
