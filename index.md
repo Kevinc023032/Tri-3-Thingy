@@ -1,5 +1,5 @@
 ---
-title: Kevin Chen Jeykll Page
+title: Home
 layout: template
 filename: index
 --- 
