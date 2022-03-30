@@ -1,8 +1,6 @@
 from week0 import swap, christmastree, ship
 from week1 import lists
 
-import tt0_1
-
 main_menu = []
 
 # Submenu list of [Prompt, Action]
