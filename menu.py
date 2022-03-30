@@ -1,4 +1,4 @@
-from week0 import swap
+from week0 import swap, christmastree
 from week1 import lists
 
 import tt0_1
@@ -9,7 +9,7 @@ main_menu = []
 # Works similarly to main_menu
 sub_menu = [
     ["Ship Animation", tt0_1.ship],
-    ["Better Christmas Tree", tt0_1.driver],
+    ["Christmas Tree", tt0_1.driver],
 ]
 
 list_sub_menu = [
