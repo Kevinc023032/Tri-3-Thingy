@@ -1,5 +1,6 @@
 from week0 import swap, christmastree, ship
 from week1 import lists
+from week2 import factorial
 
 main_menu = []
 
@@ -16,6 +17,7 @@ list_sub_menu = [
 
 math_sub_menu = [
     ["Swap", swap.swap],
+    ["Factorial", factorial.tester],
 ]
 
 # Menu banner is typically defined by menu owner
