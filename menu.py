@@ -1,3 +1,6 @@
+from week0 import swap
+from week1 import lists
+
 import tt0_1
 
 main_menu = []
@@ -10,11 +13,11 @@ sub_menu = [
 ]
 
 list_sub_menu = [
-    ["Matrix", tt0_1.matrix],
+    ["For Loop", lists.for_loop],
 ]
 
 math_sub_menu = [
-    ["Swap", tt0_1.swap],
+    ["Swap", swap.swap],
 ]
 
 # Menu banner is typically defined by menu owner
