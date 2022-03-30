@@ -1,4 +1,4 @@
-from week0 import swap, christmastree
+from week0 import swap, christmastree, ship
 from week1 import lists
 
 import tt0_1
@@ -8,8 +8,8 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Ship Animation", tt0_1.ship],
-    ["Christmas Tree", tt0_1.driver],
+    ["Ship Animation", ship.ship],
+    ["Christmas Tree", christmastree.driver],
 ]
 
 list_sub_menu = [
