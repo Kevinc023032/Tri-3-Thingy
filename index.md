@@ -13,17 +13,15 @@ filename: index
 [Replit Link](https://replit.com/@KevinChen138/Tri-3-Thingy#.replit) <br>
 
 # Timebox
+
+### Week 3 Review Ticket
+[Algorithmic Final](https://github.com/Kevinc023032/Tri-3-Thingy/issues/5)<br>
+
 ### Week 2 Review Ticket
-1. Put timebox tangible here
-2. Put timebox tangible here
-3. Put timebox tangible here
+[Classy Functions](https://github.com/Kevinc023032/Tri-3-Thingy/issues/3)<br>
 
 ### Week 1 Review Ticket
-1. Put timebox tangible here
-2. Put timebox tangible here
-3. Put timebox tangible here
+[Lists and Loops](https://github.com/Kevinc023032/Tri-3-Thingy/issues/2)<br>
 
 ### Week 0 Review Ticket
-1. Put timebox tangible here
-2. Put timebox tangible here
-3. Put timebox tangible here
+[Plans Team Job](https://github.com/Kevinc023032/Tri-3-Thingy/issues/1)<br>
