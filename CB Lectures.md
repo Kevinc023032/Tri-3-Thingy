@@ -1,6 +1,6 @@
 ### College Board Lecture Notes
 
-## Week 5
+## Week 5: Computer Systems and Networks
 ### CSN-1
 - CheckSums: a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage
 - One of the most common types of Checksums are barcodes and credit cards
@@ -28,7 +28,7 @@ Other types of checksums
 - Having more cores can create new problems 
 - Some Factors for the issues: Differing speeds, overwriting and reorganizing the work 
 
-## Week 6
+## Week 6: Creative Development 
 ### CRD 1
 - Incorporating multiple perspectives through collaboration improves computing innovations as they are developed.
 - A computing innovation includes a program as an integral part of its function.
