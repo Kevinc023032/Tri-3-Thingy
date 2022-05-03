@@ -1,6 +1,7 @@
 ### College Board Lecture Notes
 
-## CSN-1
+## Week 5
+### CSN-1
 - CheckSums: a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage
 - One of the most common types of Checksums are barcodes and credit cards
 - Barcodes contain information about the price & weight of the product, date of manufacturing and expiry, name of the manufacturer 
@@ -14,7 +15,7 @@ Other types of checksums
 - Computer systems are important because they are responsible for storing and transmitting information 
 - It’s important for computers to be reliable despite unreliable environments
 
-## CSN-2
+### CSN-2
 - Memory processors have been getting more powerful over time
 - With transistors getting exponentially faster the frequency and power exponentially increased as well
 - People decided to flatten the speed of the processors so that the power needed wouldn’t be ridiculously high 
@@ -26,3 +27,6 @@ Other types of checksums
 - Amdahl’s law: The speedup of processors achieved through parallelism is limited by the serial portion of the program 
 - Having more cores can create new problems 
 - Some Factors for the issues: Differing speeds, overwriting and reorganizing the work 
+
+## Week 6
+
