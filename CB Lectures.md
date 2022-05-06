@@ -65,7 +65,7 @@ Other types of checksums
 
 ## Week 7 Impact of Computing
 
-IOC 1
+### IOC 1
 
 - The way people complete tasks often changes to incorporate new computing innovations
 - Advances in computing have generated and increased creativity in other fields, such as medicine, engineering, communications, and the arts
@@ -93,7 +93,7 @@ Copyright:
 - Open access
 - Creative Commons
 
-IOC 2
+### IOC 2
 
 - Info specific to an individual
 - Can be used to steal/impersonate somebody
@@ -114,11 +114,6 @@ IOC 2
 - This info could be used against you and it could give other info about you that you didn't intend to share
 - Authentication:
 - Authentication measures protect devices and information from unauthorized access
-- Virus and Malware:
-Bad
-Can copy and gain access to your information
-Intended to harm and damage a computer
-Encryption:
-Prevents unauthorized access
-Decryption:
-Decoding data
+- Virus and Malware: Can copy and gain access to your information, Intended to harm and damage a computer
+- Encryption: Prevents unauthorized access
+- Decryption: Decoding data
